@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@sonuksinha1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sonuksinha1707" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonu-kumar-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-kumar-sinha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sonusinha1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sonusinha1707" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sonusinha1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sonusinha1707" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@sonusinha1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sonusinha1707" height="30" width="40" /></a>
 </p>
 
