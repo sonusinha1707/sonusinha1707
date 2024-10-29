@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonusinha1707&label=Profile%20views&color=0e75b6&style=flat" alt="sonusinha1707" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sonuksinha1707" target="blank"><img src="https://img.shields.io/twitter/follow/@sonuksinha1707?logo=twitter&style=for-the-badge" alt="@sonuksinha1707" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analytics | Data Science | Machine Learning**
 
