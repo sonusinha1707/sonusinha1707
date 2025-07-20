@@ -3,7 +3,9 @@
 <h3 align="left">I specialize in analyzing complex datasets to uncover trends, patterns, and opportunities that help organizations optimize performance and achieve their goals. My expertise spans data collection, cleaning, analysis, and visualization—delivering clear, actionable recommendations through dashboards, reports, and predictive models.
 
 With hands-on experience in Python, SQL, Excel, Tableau, Power BI, and machine learning, I’ve built real-world solutions that increased efficiency by 35%, improved customer retention by 28%, and reduced operational costs by 20%. I’m passionate about making data science practical, accessible, and impactful for teams at every level.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonusinha1707&label=Profile%20views&color=0e75b6&style=flat" alt="sonusinha1707" /> </p>
 
 
